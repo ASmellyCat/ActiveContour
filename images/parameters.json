@@ -1,0 +1,101 @@
+{
+    "brain_outter.png": {
+        "n": 400,
+        "loop": 600,
+        "w_line": 0.2,
+        "w_edge": 0.5,
+        "w_term": 1,
+        "alpha": 0.5,
+        "beta": 2,
+        "gamma": 0.3,
+        "kappa": 2
+    },
+    "brain_inner.png": {
+        "n": 600,
+        "loop": 600,
+        "w_line": -0.5,
+        "w_edge": 10,
+        "w_term": 1,
+        "alpha": 0.005,
+        "beta": 2,
+        "gamma": 0.2,
+        "kappa": 2
+    },
+    "brain_eye.png": {
+        "n": 400,
+        "loop": 600,
+        "w_line": -0.5,
+        "w_edge": 0.5,
+        "w_term": 1,
+        "alpha": 0.1,
+        "beta": 1,
+        "gamma": 0.3,
+        "kappa": 2
+    },
+    "circle.jpg": {
+        "n": 200,
+        "loop": 400,
+        "w_line": -1,
+        "w_edge": 1,
+        "w_term": 1,
+        "alpha": 0.05,
+        "beta": 1,
+        "gamma": 0.3,
+        "kappa": 2
+    },
+    "dental.png": {
+        "n": 600,
+        "loop": 800,
+        "w_line": 0.1,
+        "w_edge": 10,
+        "w_term": 0.5,
+        "alpha": 0.005,
+        "beta": 2,
+        "gamma": 0.2,
+        "kappa": 2
+    },
+    "shape.png": {
+        "n": 400,
+        "loop": 600,
+        "w_line": 0.1,
+        "w_edge": 10,
+        "w_term": 0.5,
+        "alpha": 0.02,
+        "beta": 1,
+        "gamma": 0.3,
+        "kappa": 2
+    },
+    "square.jpg": {
+        "n": 400,
+        "loop": 600,
+        "w_line": -0.5,
+        "w_edge": 2,
+        "w_term": 0.5,
+        "alpha": 0.05,
+        "beta": 2,
+        "gamma": 0.3,
+        "kappa": 2
+    },
+    "star.png": {
+        "n": 400,
+        "loop": 600,
+        "w_line": 0.5,
+        "w_edge": 1,
+        "w_term": 0.5,
+        "alpha": 0.1,
+        "beta": 1,
+        "gamma": 0.4,
+        "kappa": 2
+    },
+    "vase.tif": {
+        "n": 400,
+        "loop": 500,
+        "w_line": 0.2,
+        "w_edge": 0.5,
+        "w_term": 1,
+        "alpha": 0.5,
+        "beta": 2,
+        "gamma": 0.3,
+        "kappa": 2
+    }
+}
