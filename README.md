@@ -2,7 +2,7 @@
 Active contour techniques for image segmentation
 
 ## Introduction
-In the rapidly evolving field of image processing, the ability to accurately segment and represent images is of paramount importance. With a plethora of images available for analysis, selecting the right parameters for processing becomes a nuanced task that can significantly influence the outcomes. This report presents the outcomes of applying active contour techniques for image segmentation and details the optimal parameters for a range of images.
+In the rapidly evolving field of image processing, the ability to accurately segment and represent images is of paramount importance. With a plethora of images available for analysis, selecting the right parameters for processing becomes a nuanced task that can significantly influence the outcomes. This document presents the outcomes of applying active contour techniques for image segmentation and details the optimal parameters for a range of images.
 
 Our objectives, as outlined, are twofold:
 
